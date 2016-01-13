@@ -2,9 +2,9 @@
 .. |fullversion| replace:: |version|
 .. |checksum| replace:: ``e5947b8368f457f02c38e5f431f1992e8257c8e6``
 
-========================================
-Googe App Engine Installer |fullversion|
-========================================
+=========================================
+Google App Engine Installer |fullversion|
+=========================================
 
 This package installs the
 `Google App Engine SDK <https://developers.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python>`_
