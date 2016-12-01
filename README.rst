@@ -1,6 +1,6 @@
-.. |version| replace:: 1.9.40
+.. |version| replace:: 1.9.49
 .. |fullversion| replace:: |version|
-.. |checksum| replace:: ``f88b532ae7e23ab88290e939882a61140cb2a82a``
+.. |checksum| replace:: ``ce6e78429742f7278ead9d58310404b0c8a984e4``
 
 =========================================
 Google App Engine Installer |fullversion|
